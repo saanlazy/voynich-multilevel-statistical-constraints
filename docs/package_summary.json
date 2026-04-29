@@ -3,7 +3,7 @@
   "zip": "/Users/admin/.gemini/antigravity/codex/Chang_2026f_Voynich_MultiLevel_Integrated_package.zip",
   "tar_gz": "/Users/admin/.gemini/antigravity/codex/Chang_2026f_Voynich_MultiLevel_Integrated_package.tar.gz",
   "final_pdf": "/Users/admin/.gemini/antigravity/codex/Chang_2026f_Voynich_MultiLevel_Integrated_package/paper/Chang_2026f_Voynich_MultiLevel_Integrated_Final.pdf",
-  "file_count": 81,
+  "file_count": 64,
   "pdf_pages": 18,
   "submission_ready_pdf_replaced": true,
   "forbidden_strings_absent": true,
@@ -46,5 +46,119 @@
     "folder_methods_summary_exists": true,
     "folder_docs_exists": true,
     "methods_summary_full_exists": true
-  }
+  },
+  "integrated_package_concept_doi": "https://doi.org/10.5281/zenodo.19876003",
+  "doi_applied_to_expected_files": true,
+  "docx_render_check": "Skipped: LibreOffice/soffice was not available in the environment; DOCX XML/text validation was completed.",
+  "doi_validation_results": {
+    "README.md": true,
+    "CITATION.cff": true,
+    "metadata.json": true,
+    "docs/Data_and_Code_Availability.md": true,
+    "docs/PACKAGE_CHECKLIST.md": true,
+    "docs/package_summary.json": true,
+    "paper/Chang_2026f_Voynich_MultiLevel_Integrated_Zenodo_Preprint.pdf": true,
+    "submission/Chang_2026f_Voynich_MultiLevel_Integrated_Cryptologia_Submission.docx": true
+  },
+  "internal_render_artifacts_removed": true,
+  "archive_excludes_git_metadata": true,
+  "downloads_latest_files_patched_and_copied_to_package": true,
+  "downloads_patch_validation": {
+    "downloads_pdf": {
+      "doi": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    },
+    "package_pdf": {
+      "doi": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    },
+    "downloads_docx": {
+      "doi": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    },
+    "package_docx": {
+      "doi": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    }
+  },
+  "zenodo_preprint_regenerated_from_cryptologia_docx": true,
+  "docx_based_pdf_validation": {
+    "downloads_pdf": {
+      "doi": true,
+      "data_then_doi": true,
+      "doi_not_in_references": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "preprint_phrase": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    },
+    "package_pdf": {
+      "doi": true,
+      "data_then_doi": true,
+      "doi_not_in_references": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "preprint_phrase": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    },
+    "downloads_docx": {
+      "doi": true,
+      "no_preprint_phrase": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    },
+    "package_docx": {
+      "doi": true,
+      "no_preprint_phrase": true,
+      "component_paper_dois": true,
+      "component_package_dois": true,
+      "fig6_caption": true,
+      "future_work": true,
+      "funding": true,
+      "competing": true,
+      "ethics": true
+    }
+  },
+  "zenodo_pdf_path": "/Users/admin/.gemini/antigravity/codex/Chang_2026f_Voynich_MultiLevel_Integrated_package/paper/Chang_2026f_Voynich_MultiLevel_Integrated_Zenodo_Preprint.pdf",
+  "zenodo_preprint_regenerated_from_latest_cryptologia_docx": true,
+  "qa_render_image_removed_from_package": true,
+  "cover_page_duplicate_removed": true,
+  "first_page_title_block_count_verified": 1
 }
