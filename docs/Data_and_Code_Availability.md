@@ -1,6 +1,6 @@
 # Data and Code Availability
 
-The integrated reproduction package for the present manuscript is archived on Zenodo at https://doi.org/10.5281/zenodo.19876003. This integrated package contains the manuscript source, final figures, final tables, methods summary materials, submission-support files, and documentation for the Chang 2026f synthesis. Component paper-level DOI records and component package DOI records are listed separately because they refer to the five underlying component studies and their associated reproduction materials.
+The integrated preprint manuscript is archived on Zenodo at https://doi.org/10.5281/zenodo.19877135. The integrated reproduction package for the present manuscript is archived separately on Zenodo at https://doi.org/10.5281/zenodo.19876003. This package contains the manuscript source, final figures, final tables, methods summary materials, submission-support files, and documentation for the Chang 2026f synthesis. Component paper-level DOI records and component package DOI records are listed separately because they refer to the five underlying component studies and their associated reproduction materials.
 
 ## Component Paper DOIs
 
@@ -18,6 +18,6 @@ The integrated reproduction package for the present manuscript is archived on Ze
 - Paper 4 package: https://doi.org/10.5281/zenodo.19857820
 - Paper 5 package: https://doi.org/10.5281/zenodo.19869615
 
-The component paper DOI records and component package DOI records are intentionally distinct from the integrated package DOI. Paper-level DOI records identify manuscripts, while package DOI records identify associated reproduction materials.
+The integrated paper/preprint DOI and integrated reproduction package DOI are intentionally distinct. Component paper-level DOI records and component package DOI records remain separate because they refer to the five underlying component studies and their associated reproduction materials.
 
 The component studies use the Zandbergen-Landini EVA transcription (ZL3b) of the Voynich Manuscript. Redistribution and reuse of transcription data should follow the original source terms.

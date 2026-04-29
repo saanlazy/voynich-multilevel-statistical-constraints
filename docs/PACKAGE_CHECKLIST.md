@@ -35,9 +35,11 @@ No required files are missing.
 
 81 files before archive creation.
 
-## Integrated Package DOI Update
+## Integrated Paper and Package DOI Update
 
-- Integrated package concept DOI: https://doi.org/10.5281/zenodo.19876003
-- DOI identifies the Chang 2026f synthesis package, not the five component papers.
-- DOI appears in README.md, CITATION.cff, metadata.json, Data and Code Availability, package checklist, package summary, Zenodo preprint PDF, and Cryptologia submission DOCX: PASS.
-- DOCX render QA note: LibreOffice/soffice was not available in the environment; DOCX text/XML validation was completed.
+- Integrated paper/preprint concept DOI: https://doi.org/10.5281/zenodo.19877135
+- Integrated reproduction package concept DOI: https://doi.org/10.5281/zenodo.19876003
+- The paper/preprint DOI identifies the Chang 2026f manuscript record.
+- The reproduction package DOI identifies the Chang 2026f synthesis package and supporting reproduction materials.
+- Both DOI records appear in README.md, CITATION.cff, metadata.json, Data and Code Availability, package checklist, package summary, Zenodo preprint PDF, Cryptologia submission DOCX, and Cryptologia cover letter: PASS
+- The DOI opening sentence appears in Data and Code Availability and not inside References: PASS

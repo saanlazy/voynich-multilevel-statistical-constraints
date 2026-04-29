@@ -31,9 +31,12 @@ Do the component studies jointly support a multi-level statistical account of Vo
 - Paper 4: the PCS token-generation model achieves 97.02% matching and 85.25% token mass coverage, compared with 5.07% and 18.50% for random baselines.
 - Paper 5: real local sequences show lower bigram entropy than line-internal shuffle baselines (11.7001 vs. 12.7229) and higher next-token prediction accuracy.
 
-## Integrated Package DOI
+## Integrated Paper and Package DOIs
 
-The integrated reproduction package for the Chang 2026f synthesis is archived on Zenodo at https://doi.org/10.5281/zenodo.19876003. This DOI identifies the integrated synthesis package, not the five component papers or their separate reproduction packages.
+- Integrated paper/preprint concept DOI: https://doi.org/10.5281/zenodo.19877135
+- Integrated reproduction package concept DOI: https://doi.org/10.5281/zenodo.19876003
+
+The integrated paper/preprint DOI identifies the Chang 2026f manuscript record. The integrated reproduction package DOI identifies the Chang 2026f synthesis package containing manuscript source, figures, tables, methods summary materials, submission-support files, and documentation. These integrated DOI records are distinct from the component paper and component package DOI records listed below.
 
 ## Component Paper DOIs
 

@@ -12,11 +12,13 @@ The contribution of the manuscript is methodological and structural. It provides
 
 Earlier component papers and their associated reproduction packages have been archived on Zenodo with DOI records. The present manuscript synthesizes and extends those archived studies into a single integrated framework and is not under consideration elsewhere. The paper-level DOI records and package DOI records are intentionally distinct: the former identify component manuscripts, while the latter identify code, derived outputs, figures, tables, and reproduction materials.
 
-All supporting materials are available through the associated reproduction package and Zenodo DOI records cited in the manuscript. AI-based tools assisted with code implementation, figure generation, and manuscript editing; research design, analytical decisions, statistical interpretation, and final argumentation were conducted by the author.
+All supporting materials are available through the associated reproduction package and Zenodo DOI records cited in the manuscript. The integrated paper/preprint concept DOI is https://doi.org/10.5281/zenodo.19877135, and the integrated reproduction package concept DOI is https://doi.org/10.5281/zenodo.19876003. These records are distinct from the five component paper DOI records and the five component package DOI records.
+
+AI-based tools assisted with code implementation, figure generation, and manuscript editing; research design, analytical decisions, statistical interpretation, and final argumentation were conducted by the author.
 
 Thank you for considering this manuscript for review.
 
 Sincerely,
 
-**Youngsan Chang**  
+Youngsan Chang  
 Independent Researcher

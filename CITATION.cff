@@ -4,7 +4,7 @@ authors:
   - family-names: Chang
     given-names: Youngsan
 year: 2026
-doi: 10.5281/zenodo.19876003
+doi: 10.5281/zenodo.19877135
 message: "If you use this work, please cite it using the metadata from this file."
 keywords:
   - Voynich Manuscript
@@ -14,3 +14,8 @@ keywords:
   - sequential organization
   - computational text analysis
 license: CC-BY-4.0
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19876003"
+    description: "Integrated reproduction package concept DOI"

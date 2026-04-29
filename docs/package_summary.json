@@ -160,5 +160,8 @@
   "zenodo_preprint_regenerated_from_latest_cryptologia_docx": true,
   "qa_render_image_removed_from_package": true,
   "cover_page_duplicate_removed": true,
-  "first_page_title_block_count_verified": 1
+  "first_page_title_block_count_verified": 1,
+  "integrated_paper_preprint_concept_doi": "https://doi.org/10.5281/zenodo.19877135",
+  "integrated_reproduction_package_concept_doi": "https://doi.org/10.5281/zenodo.19876003",
+  "doi_sentence_only_in_data_and_code_availability_not_references": true
 }
