@@ -1,0 +1,6 @@
+Study,Corpus / subset,Preprocessing rule
+Chang 2026a,Line- and paragraph-aware ZL3b EVA transcription subset.,"Preserves line and paragraph position; parses line-initial, line-final, and paragraph-initial contexts."
+Chang 2026b,"Voynich ZL3b plus English, Latin, synthetic n-gram, and JSON/structured comparison datasets.",Size-matched comparison; current normalization plus robustness modes where available.
+Chang 2026c,ZL3b token set suitable for PCS segmentation.,"Prefix length 2, suffix length 1, core as middle component; tokens with empty core excluded."
+Chang 2026d,ZL3b token-generation corpus and PCS component inventory.,Operational PCS extraction; fixed-length segmentation variants; train/test holdout splits.
+Chang 2026e,"Line-preserving ZL3b corpus: 23,753 tokens, 12,688 types, 8,510 lines.",Preserves token order and line boundaries; uses PCS segmentations and morphological families where available.

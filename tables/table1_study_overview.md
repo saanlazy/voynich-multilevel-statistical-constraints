@@ -1,0 +1,7 @@
+| Study | Structural level | Main question | Core result |
+| --- | --- | --- | --- |
+| Chang 2026a | Position | Are token classes positionally constrained? | Line and paragraph positional constraints survive permutation baselines. |
+| Chang 2026b | Predictability | Does Voynich resemble natural language statistically? | Entropy and ambiguity correlations exceed 0.95 while suffix and prefix-family structure diverge. |
+| Chang 2026c | Token-internal PCS | Are components conditionally dependent? | Suffix is strongly predicted by core: H(suffix/core) = 0.8370; top-1 accuracy = 79.11%. |
+| Chang 2026d | Token generation | Can PCS reproduce observed tokens? | PCS model achieves 97.02% matching and 85.25% token mass coverage. |
+| Chang 2026e | Inter-token arrangement | Is local token order non-random? | Real sequences show lower entropy, higher prediction accuracy, and local family clustering. |

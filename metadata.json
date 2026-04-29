@@ -1,0 +1,14 @@
+{
+  "title": "Multi-Level Statistical Constraints in the Voynich Manuscript: From Token Structure to Sequential Organization",
+  "author": "Youngsan Chang",
+  "year": 2026,
+  "description": "Integrated reproduction package for a multi-level statistical synthesis of Voynich Manuscript token structure and local sequential organization.",
+  "keywords": [
+    "Voynich Manuscript",
+    "multi-level statistical constraints",
+    "prefix-core-suffix",
+    "token structure",
+    "sequential organization"
+  ],
+  "license": "CC-BY-4.0 for text/manuscript; MIT for code/assets where applicable; data follows original source terms"
+}

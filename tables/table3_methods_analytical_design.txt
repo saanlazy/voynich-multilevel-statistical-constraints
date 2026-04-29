@@ -1,0 +1,21 @@
+Table 3. Methods: Analytical Design
+
+Study       | Main metrics                                   | Baselines / statistical tests                  | Primary output                                
+------------+------------------------------------------------+------------------------------------------------+-----------------------------------------------
+Chang 2026a | dshedy line-initial bias; p/t/k paragraph-     | Global token shuffle; line-internal shuffle;   | Position-specific constraint evidence with    
+            | initial concentration; am-class line-final     | position-restricted shuffle; permutation       | empirical p-value framework.                  
+            | bias.                                          | trials N = 1,000.                              |                                               
+Chang 2026b | Entropy decay; ambiguity persistence; prefix-  | Frequency-preserving shuffle; length-          | Comparative evidence for language-like        
+            | family overlap; suffix distribution            | preserving randomization; prefix-              | predictability and structural divergence.     
+            | concentration.                                 | preserving/global suffix model; size-matched   |                                               
+            |                                                | bootstrap/permutation where specified.         |                                               
+Chang 2026c | Mutual information; conditional entropy;       | Character-shuffled and n-gram baselines;       | Asymmetric PCS dependency, especially         
+            | top-1/top-3 prediction accuracy; structure-    | shuffle_cores_only, shuffle_suffixes_only,     | H(suffix|core).                               
+            | break tests.                                   | shuffle_prefixes_only perturbations.           |                                               
+Chang 2026d | Matching rate; token mass coverage; Zipf slope | Random and shuffled baselines; fixed-length    | PCS token-generation performance and          
+            | difference; H(suffix|core); compression ratio; | segmentation experiments; bootstrap            | robustness validation.                        
+            | morphological families.                        | validation; holdout splits 80/20, 70/30,       |                                               
+            |                                                | 50/50.                                         |                                               
+Chang 2026e | Bigram/trigram entropy; next-token             | Full shuffle; frequency-preserving shuffle;    | Evidence for non-random inter-token           
+            | top-1/top-3; PCS transition entropy; line-     | line-internal shuffle; N = 1,000 where         | arrangement and line-level organization.      
+            | boundary chi-square; family distance.          | computationally feasible.                      |                                               

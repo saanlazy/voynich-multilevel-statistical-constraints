@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Multi-Level Statistical Constraints in the Voynich Manuscript: From Token Structure to Sequential Organization"
+authors:
+  - family-names: Chang
+    given-names: Youngsan
+year: 2026
+message: "If you use this work, please cite it using the metadata from this file."
+keywords:
+  - Voynich Manuscript
+  - multi-level statistical constraints
+  - prefix-core-suffix
+  - token structure
+  - sequential organization
+  - computational text analysis
+license: CC-BY-4.0
